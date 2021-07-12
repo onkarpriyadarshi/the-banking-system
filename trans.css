@@ -1,0 +1,15 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.my-info{
+    color:white;
+    font-family: Comic Sans MS;
+}
+td{
+    background-color: black;
+    color: black;
+}
